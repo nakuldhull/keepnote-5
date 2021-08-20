@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NoteService" />
+        <module name="UserAuthentication-Service" />
+        <module name="CategoryService" />
+        <module name="ReminderService" />
+        <module name="UserService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CategoryService" target="1.8" />
+      <module name="KeepNote-Step5-Boilerplate" target="1.8" />
+      <module name="NoteService" target="1.8" />
+      <module name="ReminderService" target="1.8" />
+      <module name="UserAuthentication-Service" target="1.8" />
+      <module name="UserService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CategoryService" options="-parameters" />
+      <module name="NoteService" options="-parameters" />
+      <module name="ReminderService" options="-parameters" />
+      <module name="UserAuthentication-Service" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+    </option>
+  </component>
+</project>

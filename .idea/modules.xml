@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CategoryService/CategoryService.iml" filepath="$PROJECT_DIR$/CategoryService/CategoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeepNote-Step5-Boilerplate.iml" filepath="$PROJECT_DIR$/KeepNote-Step5-Boilerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NoteService/NoteService.iml" filepath="$PROJECT_DIR$/NoteService/NoteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReminderService/ReminderService.iml" filepath="$PROJECT_DIR$/ReminderService/ReminderService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserAuthentication-Service/UserAuthentication-Service.iml" filepath="$PROJECT_DIR$/UserAuthentication-Service/UserAuthentication-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+    </modules>
+  </component>
+</project>
